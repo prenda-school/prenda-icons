@@ -1,5 +1,5 @@
-import React from "react";
-import createSvgIcon from "@mui/material/utils/createSvgIcon";
+import React from 'react';
+import createSvgIcon from '@mui/material/utils/createSvgIcon';
 
 export default createSvgIcon(
   <g clip-path="url(#clip0)">
@@ -70,5 +70,5 @@ export default createSvgIcon(
       d="M431.699 30.189a5.67 5.67 0 100-11.342 5.67 5.67 0 000 11.342z"
     />
   </g>,
-  "ConquerIllustration",
+  'ConquerIllustration',
 );

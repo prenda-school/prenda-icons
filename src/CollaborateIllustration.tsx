@@ -1,9 +1,9 @@
-import React from "react";
-import createSvgIcon from "@mui/material/utils/createSvgIcon";
+import React from 'react';
+import createSvgIcon from '@mui/material/utils/createSvgIcon';
 
 export default createSvgIcon(
   [
-    <g clip-path="url(#clip0)">
+    <g clip-path="url(#clip0)" key="0">
       <path
         fill="#807BFF"
         fill-rule="evenodd"
@@ -99,7 +99,7 @@ export default createSvgIcon(
         d="M80.16 391.962a59.047 59.047 0 00-59.04-59.047v-12.454a59.037 59.037 0 0059.04-59.04h12.16a59.04 59.04 0 0059.04 59.04v12.454a59.049 59.049 0 00-59.04 59.047H80.16z"
       />
     </g>,
-    <defs>
+    <defs key="1">
       <linearGradient
         id="paint0_linear"
         x1="335.232"
@@ -116,5 +116,5 @@ export default createSvgIcon(
       </clipPath>
     </defs>,
   ],
-  "CollaborateIllustration",
+  'CollaborateIllustration',
 );
