@@ -21,6 +21,9 @@
     "library"
   ],
   "author": "Blake Bishop",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "dependencies": {
     "@emotion/react": "^11.14.0",
