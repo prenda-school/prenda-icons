@@ -17,7 +17,7 @@ jobs:
       - name: Configure npm authenticaiton
         run: echo "//npm.pkg.github.com/:_authToken=${NPM_TOKEN}" > ~/.npmrc
         env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN_ICONS }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
