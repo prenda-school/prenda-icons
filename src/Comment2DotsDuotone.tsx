@@ -1,10 +1,10 @@
-import React from 'react';
-import createSvgIcon from '@mui/material/utils/createSvgIcon';
+import React from "react";
+import createSvgIcon from "./utils/createSvgIcon";
 
 export default createSvgIcon(
   [
     <path
-      fill="#F0F1F2"
+      fill=""
       d="M12 21c4.9706 0 9-4.0294 9-9s-4.0294-9-9-9-9 4.0294-9 9c0 1.0913.2647 2.1827.6014 3.1296.5262 1.4794.7893 2.219.8157 2.6393.0297.4717.0075.6506-.1363 1.1008-.128.4012-.4373.8651-1.0558 1.7929L3 21h9z"
       key="0"
     />,
@@ -14,5 +14,5 @@ export default createSvgIcon(
       key="1"
     />,
   ],
-  'Comment2DotsDuotone',
+  "Comment2DotsDuotone",
 );

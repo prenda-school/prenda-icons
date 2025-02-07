@@ -1,5 +1,5 @@
 import React from 'react';
-import createSvgIcon from '@mui/material/utils/createSvgIcon';
+import createSvgIcon from "./utils/createSvgIcon";
 
 export default createSvgIcon(
   <g clip-path="url(#clip0)">
