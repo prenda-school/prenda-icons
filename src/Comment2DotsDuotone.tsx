@@ -1,5 +1,5 @@
-import React from "react";
-import createSvgIcon from "./utils/createSvgIcon";
+import React from 'react';
+import createSvgIcon from './utils/createSvgIcon';
 
 export default createSvgIcon(
   [
@@ -14,5 +14,5 @@ export default createSvgIcon(
       key="1"
     />,
   ],
-  "Comment2DotsDuotone",
+  'Comment2DotsDuotone',
 );
