@@ -1,6 +1,6 @@
 {
   "name": "@prenda-school/prenda-icons",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Icon set for Prenda",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
