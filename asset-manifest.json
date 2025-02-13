@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.a0e36938.js",
-    "static/js/488.9e6bf66f.chunk.js": "/static/js/488.9e6bf66f.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.a0e36938.js.map": "/static/js/main.a0e36938.js.map",
-    "488.9e6bf66f.chunk.js.map": "/static/js/488.9e6bf66f.chunk.js.map"
+    "main.css": "/prenda-icons/static/css/main.e6c13ad2.css",
+    "main.js": "/prenda-icons/static/js/main.3c221ab5.js",
+    "static/js/488.9e6bf66f.chunk.js": "/prenda-icons/static/js/488.9e6bf66f.chunk.js",
+    "index.html": "/prenda-icons/index.html",
+    "main.e6c13ad2.css.map": "/prenda-icons/static/css/main.e6c13ad2.css.map",
+    "main.3c221ab5.js.map": "/prenda-icons/static/js/main.3c221ab5.js.map",
+    "488.9e6bf66f.chunk.js.map": "/prenda-icons/static/js/488.9e6bf66f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a0e36938.js"
+    "static/js/main.3c221ab5.js"
   ]
 }
