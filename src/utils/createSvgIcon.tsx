@@ -1,5 +1,5 @@
 import SvgIcon, { type SvgIconProps } from '@mui/material/SvgIcon/index.js';
-import Recat from 'react';
+import type React from 'react';
 
 export default function createSvgIcon(
   svgPath: React.ReactElement | React.ReactElement[],

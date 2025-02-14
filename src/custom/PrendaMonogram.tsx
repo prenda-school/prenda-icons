@@ -1,5 +1,5 @@
-import React from 'react';
-import createSvgIcon from '../utils/createSvgIcon';
+import React from "react";
+import createSvgIcon from "../utils/createSvgIcon";
 
 export default createSvgIcon(
   <svg
@@ -10,7 +10,7 @@ export default createSvgIcon(
     viewBox="0 0 24 24"
   >
     <title>Prenda Monogram</title>
-    <g clip-path="url(#a)">
+    <g clipPath="url(#a)">
       <path fill="#fff" d="M0 0h24v24H0z" />
       <path
         fill="#0A4872"
@@ -23,5 +23,5 @@ export default createSvgIcon(
       </clipPath>
     </defs>
   </svg>,
-  'PrendaMonogram',
+  "PrendaMonogram",
 );
