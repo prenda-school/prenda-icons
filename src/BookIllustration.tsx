@@ -25,9 +25,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M70.925 218.722c73.474-22.738 150.329-22.674 223.783.194l-2.664 8.555c-71.724-22.329-146.727-22.392-218.47-.19l-2.649-8.559z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="4"
     />,
     <path
@@ -37,9 +37,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M70.925 287.496c73.474-22.738 150.329-22.673 223.783.195l-2.664 8.555c-71.724-22.33-146.727-22.393-218.47-.19l-2.649-8.56z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="6"
     />,
     <path
@@ -49,9 +49,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M70.925 356.271c73.474-22.739 150.329-22.674 223.783.194l-2.664 8.555c-71.724-22.329-146.727-22.392-218.47-.19l-2.649-8.559z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="8"
     />,
     <path
@@ -61,9 +61,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M70.925 425.045c73.474-22.738 150.329-22.673 223.783.194l-2.664 8.555c-71.724-22.329-146.727-22.392-218.47-.19l-2.649-8.559z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="10"
     />,
     <path
@@ -73,9 +73,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M345.603 218.725a374.56 374.56 0 01223.797.194l-2.685 8.549a365.589 365.589 0 00-218.443-.19l-2.669-8.553z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="12"
     />,
     <path
@@ -85,9 +85,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M345.603 287.499a374.552 374.552 0 01223.797.195l-2.685 8.548a365.597 365.597 0 00-218.443-.189l-2.669-8.554z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="14"
     />,
     <path
@@ -97,9 +97,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M345.603 356.274a374.56 374.56 0 01223.797.194l-2.685 8.549a365.589 365.589 0 00-218.443-.19l-2.669-8.553z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="16"
     />,
     <path
@@ -109,9 +109,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M345.603 425.048a374.552 374.552 0 01223.797.195l-2.685 8.548a365.597 365.597 0 00-218.443-.19l-2.669-8.553z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="18"
     />,
     <path
@@ -133,8 +133,8 @@ export default createSvgIcon(
         y2="357.05"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#093D61" />
-        <stop offset="1" stop-color="#0A4872" />
+        <stop stopColor="#093D61" />
+        <stop offset="1" stopColor="#0A4872" />
       </linearGradient>
     </defs>,
   ],

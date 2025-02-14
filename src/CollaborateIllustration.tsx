@@ -3,12 +3,12 @@ import createSvgIcon from './utils/createSvgIcon';
 
 export default createSvgIcon(
   [
-    <g clip-path="url(#clip0)" key="0">
+    <g clipPath="url(#clip0)" key="0">
       <path
         fill="#807BFF"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M535.782 362.496c-37.802 0-68.448 30.645-68.448 68.448s30.646 68.448 68.448 68.448c37.803 0 68.448-30.645 68.448-68.448s-30.645-68.448-68.448-68.448zm-77.408 68.448c0-42.751 34.657-77.408 77.408-77.408 42.752 0 77.408 34.657 77.408 77.408 0 42.751-34.656 77.408-77.408 77.408-42.751 0-77.408-34.657-77.408-77.408z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#D7F3FF"
@@ -24,21 +24,21 @@ export default createSvgIcon(
       />
       <path
         fill="#002F3C"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M443.476 260.37l-18.214-72.371 8.689-2.187 18.214 72.371-8.689 2.187zM473.832 334.62c.967 12.454 8.067 24.374 19.147 35.454l-6.336 6.335c-11.851-11.851-20.546-25.659-21.744-41.096-1.212-15.611 5.314-31.852 21.745-48.28l6.335 6.337c-15.16 15.156-20.1 28.969-19.147 41.25zM406.081 267.864l-24.851-98.758 8.689-2.186 24.851 98.758-8.689 2.186zM362.855 275.34l-21.932-87.162 8.689-2.186 21.933 87.161-8.69 2.187z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#FFAA69"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M313.312 566.182v-55.424h8.96v55.424h-8.96z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#FFAA69"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M290.08 533.99h55.424v8.96H290.08v-8.96z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#807BFF"
@@ -46,9 +46,9 @@ export default createSvgIcon(
       />
       <path
         fill="#002F3C"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M324.851 36.243V77.71h-8.96V36.243h8.96zM284.342 59.19l17.344 22.83-7.135 5.42-17.344-22.829 7.135-5.42zM362.793 64.611L345.449 87.44l-7.135-5.42 17.344-22.83 7.135 5.421z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#807BFF"
@@ -80,15 +80,15 @@ export default createSvgIcon(
       />
       <path
         fill="#DAD9FF"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M173.088 503.616v28.666h-8.96v-28.666h8.96zM132.578 513.763l17.344 22.822-7.134 5.422-17.344-22.823 7.134-5.421zM211.036 519.184l-17.344 22.823-7.134-5.422 17.344-22.822 7.134 5.421zM33.818 503.616v28.666h-8.96v-28.666h8.96zM-6.692 513.763l17.344 22.822-7.134 5.422-17.344-22.823 7.134-5.421zM71.759 519.184l-17.344 22.823-7.134-5.422 17.344-22.822 7.134 5.421zM243.098 433.882v28.665h-8.96v-28.665h8.96zM202.588 444.023l17.344 22.828-7.134 5.421-17.344-22.829 7.134-5.42zM281.04 449.442l-17.338 22.829-7.135-5.419 17.337-22.829 7.136 5.419zM103.827 433.882v28.665h-8.96v-28.665h8.96zM63.311 444.023l17.344 22.828-7.134 5.421-17.344-22.829 7.134-5.42zM141.769 449.443l-17.344 22.829-7.135-5.421 17.344-22.828 7.135 5.42zM103.827 575.411v28.666h-8.96v-28.666h8.96zM63.311 585.552l17.344 22.829-7.134 5.42-17.344-22.828 7.134-5.421zM141.769 590.973l-17.344 22.828-7.135-5.42 17.344-22.829 7.135 5.421zM2.492 590.973l-17.344 22.828-7.134-5.42 17.344-22.829 7.134 5.421z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#002F3C"
-        fill-rule="evenodd"
+        fillRule="evenodd"
         d="M177.3 256.225l18.215-72.378 8.689 2.187-18.215 72.378-8.689-2.187zM214.702 263.713l24.851-98.758 8.689 2.186-24.851 98.759-8.689-2.187zM257.921 271.188l21.933-87.161 8.689 2.186-21.933 87.162-8.689-2.187z"
-        clip-rule="evenodd"
+        clipRule="evenodd"
       />
       <path
         fill="#0A4872"
@@ -108,8 +108,8 @@ export default createSvgIcon(
         y2="288.762"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#093D61" />
-        <stop offset="1" stop-color="#0A4872" />
+        <stop stopColor="#093D61" />
+        <stop offset="1" stopColor="#0A4872" />
       </linearGradient>
       <clipPath id="clip0">
         <path fill="#fff" d="M0 0h640v640H0z" />
