@@ -5,9 +5,9 @@ export default createSvgIcon(
   [
     <path
       fill="#00AB82"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M77.274 62.285c-16.931 0-30.656 13.725-30.656 30.656 0 16.931 13.725 30.656 30.656 30.656 16.93 0 30.656-13.725 30.656-30.656 0-16.931-13.725-30.656-30.656-30.656zM37.658 92.94c0-21.88 17.736-39.616 39.616-39.616 21.879 0 39.616 17.736 39.616 39.616 0 21.879-17.737 39.616-39.616 39.616-21.88 0-39.616-17.737-39.616-39.616z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="0"
     />,
     <path
@@ -57,16 +57,16 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M500.896 198.477v-55.424h8.96v55.424h-8.96z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="10"
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M477.664 166.285h55.424v8.96h-55.424v-8.96z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="11"
     />,
     <path
@@ -76,9 +76,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M326.887 54.253v41.465h-8.96V54.253h8.96zM286.377 77.2l17.344 22.822-7.134 5.421-17.344-22.822 7.134-5.421zM364.834 82.621l-17.344 22.822-7.134-5.421L357.7 77.2l7.134 5.421z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="13"
     />,
     <path
@@ -88,9 +88,9 @@ export default createSvgIcon(
     />,
     <path
       fill="#002F3C"
-      fill-rule="evenodd"
+      fillRule="evenodd"
       d="M106.055 489.747c-26.91 0-48.724 21.814-48.724 48.723s21.814 48.724 48.724 48.724c26.909 0 48.723-21.815 48.723-48.724 0-26.909-21.814-48.723-48.723-48.723zM48.371 538.47c0-31.857 25.826-57.683 57.684-57.683 31.857 0 57.683 25.826 57.683 57.683 0 31.858-25.826 57.684-57.683 57.684-31.858 0-57.684-25.826-57.684-57.684z"
-      clip-rule="evenodd"
+      clipRule="evenodd"
       key="15"
     />,
     <defs key="16">
@@ -102,8 +102,8 @@ export default createSvgIcon(
         y2="444.09"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#093D61" />
-        <stop offset="1" stop-color="#0A4872" />
+        <stop stopColor="#093D61" />
+        <stop offset="1" stopColor="#0A4872" />
       </linearGradient>
     </defs>,
   ],
