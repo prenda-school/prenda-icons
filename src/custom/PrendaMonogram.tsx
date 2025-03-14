@@ -1,5 +1,5 @@
-import React from "react";
-import createSvgIcon from "../utils/createSvgIcon";
+import React from 'react';
+import createSvgIcon from '../utils/createSvgIcon';
 
 export default createSvgIcon(
   <svg
@@ -23,5 +23,5 @@ export default createSvgIcon(
       </clipPath>
     </defs>
   </svg>,
-  "PrendaMonogram",
+  'PrendaMonogram',
 );

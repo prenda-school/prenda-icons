@@ -13,11 +13,11 @@ export default createSvgIcon(
     <title>Collaborate Spark</title>
     <rect width="105" height="105" fill="#FFFAE6" rx="16" />
     <path
-      fill="#FF8B00"
+      fill="#FFC400"
       d="M55.871 17.667c0-.92-.746-1.667-1.667-1.667H51.77c-.92 0-1.667.746-1.667 1.667v6.357c0 .92.746 1.667 1.667 1.667h2.434c.92 0 1.667-.746 1.667-1.666v-6.358Zm-17.223 3.642a1.667 1.667 0 0 0-2.313-.373l-1.963 1.4a1.667 1.667 0 0 0-.377 2.34l3.774 5.165c.54.738 1.571.904 2.314.373l1.963-1.4c.755-.54.925-1.591.377-2.34l-3.775-5.165Zm25.306 7.508a1.667 1.667 0 0 1-.377-2.34l3.775-5.165a1.667 1.667 0 0 1 2.313-.373l1.963 1.4c.755.54.925 1.592.377 2.34l-3.774 5.166a1.667 1.667 0 0 1-2.314.373l-1.963-1.401Z"
     />
     <path
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
@@ -34,14 +34,14 @@ export default createSvgIcon(
       cy="46.023"
       r="8.023"
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
     />
     <path
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
@@ -52,7 +52,7 @@ export default createSvgIcon(
       cy="54.783"
       r="3.566"
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
@@ -62,7 +62,7 @@ export default createSvgIcon(
       cy="54.783"
       r="3.566"
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"

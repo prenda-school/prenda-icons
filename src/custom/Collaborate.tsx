@@ -13,7 +13,7 @@ export default createSvgIcon(
     <title>Collaborate</title>
     <rect width="105" height="105" fill="#FFFAE6" rx="16" />
     <path
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
@@ -30,14 +30,14 @@ export default createSvgIcon(
       cy="42.023"
       r="8.023"
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
     />
     <path
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
@@ -48,7 +48,7 @@ export default createSvgIcon(
       cy="50.783"
       r="3.566"
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
@@ -58,7 +58,7 @@ export default createSvgIcon(
       cy="50.783"
       r="3.566"
       fill="#FFEECE"
-      stroke="#FF8B00"
+      stroke="#FFC400"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth="3.056"
