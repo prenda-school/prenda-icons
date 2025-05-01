@@ -6,7 +6,6 @@ const IconGallery = () => {
     <div style={styles.grid}>
       {Object.entries(Icons).map(([iconName, IconComponent]) => (
         <div key={iconName} style={styles.iconWrapper}>
-          {/* You can use the title attribute for a simple tooltip */}
           <div title={iconName} style={styles.iconContainer}>
             <IconComponent />
           </div>
