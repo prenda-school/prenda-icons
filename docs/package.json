@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://prenda-school.github.io/prenda-icons/",
   "dependencies": {
-    "@prenda-school/prenda-icons": "^1.0.13",
+    "@prenda-school/prenda-icons": "^1.0.14",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
