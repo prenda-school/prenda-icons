@@ -1733,6 +1733,7 @@ export { default as Hashtag } from "./Hashtag";
 export { default as Grade } from "./Grade";
 export { default as Home3 } from "./Home3";
 export { default as CalendarEvent } from "./CalendarEvent";
+export { default as Microschool } from "./Microschool";
 export { default as BonusTime } from "./custom/BonusTime";
 export { default as BonusTimeSpark } from "./custom/BonusTimeSpark";
 export { default as Collaborate } from "./custom/Collaborate";
