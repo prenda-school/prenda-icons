@@ -1,5 +1,5 @@
-import React from "react";
-import createSvgIcon from "../utils/createSvgIcon";
+import React from 'react';
+import createSvgIcon from '../utils/createSvgIcon';
 
 export default createSvgIcon(
   <svg
@@ -9,6 +9,7 @@ export default createSvgIcon(
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
+    <title>Incomplete</title>
     <circle
       opacity={0.12}
       cx={12}
@@ -22,5 +23,5 @@ export default createSvgIcon(
       fill="#253858"
     />
   </svg>,
-  "Incomplete",
+  'Incomplete',
 );
