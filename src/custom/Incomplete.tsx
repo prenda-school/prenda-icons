@@ -9,6 +9,7 @@ export default createSvgIcon(
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
+    <title>Incomplete</title>
     <circle
       opacity={0.12}
       cx={12}
