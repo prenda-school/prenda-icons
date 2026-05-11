@@ -2,7 +2,7 @@ import React from 'react';
 import createSvgIcon from './utils/createSvgIcon';
 
 export default createSvgIcon(
-  <g clip-path="url(#clip0)">
+  <g clipPath="url(#clip0)">
     <path
       fill="#FFB78F"
       d="M546.259 84.282l15.661-9.716v-16.37s-8.762 3.41-26.726 3.41c-23.04 0-44.16-25.875-76.756-25.875-17.92 0-31.264 12.8-31.264 12.8v73.856s17.428-19.398 35.796-19.398c32.179 0 41.798 10.656 66.56 10.656 16 0 32.377-10.023 32.377-10.023V91.398l-15.648-7.116z"
