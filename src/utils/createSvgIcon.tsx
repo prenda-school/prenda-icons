@@ -1,4 +1,4 @@
-import SvgIcon, { type SvgIconProps } from '@mui/material/SvgIcon/index.js';
+import SvgIcon, { type SvgIconProps } from '@mui/material/SvgIcon';
 import type React from 'react';
 
 export default function createSvgIcon(
